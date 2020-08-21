@@ -1,21 +1,21 @@
-#Text Decipher
+# Text Decipher
 
 This project is used to decipher text using a given 26-character phrase. 
 
 ***
 
-##Getting Started
+## Getting Started
 
-###Dependencies
+### Dependencies
 
 Runs on any computer terminal that supports Python. 
 
-###Installing
+### Installing
 Download Anaconda from https://www.anaconda.com
 
 ***
 
-##Executing program
+## Executing program
 * Run the program from terminal using the code below or execute from Spyder in the Anaconda-Navigator
     ````python decipher.py````
 * Type the 26-character phrase used to decode the cyphered text
@@ -25,7 +25,7 @@ Download Anaconda from https://www.anaconda.com
 
 ***
 
-##Author
+## Author
 Clare DuVal of Clemson Univeristy (GitHub @darecluval)
 
 
