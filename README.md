@@ -16,14 +16,14 @@ Download Anaconda from https://www.anaconda.com
 ***
 
 ## Executing program
-* Run the program from terminal using the code below or execute from Spyder in the Anaconda-Navigator
+1. Run the program from terminal using the code below or execute from Spyder in the Anaconda-Navigator
 
     ````python decipher.py````
 
-* Type the 26-character phrase used to decode the cyphered text
-* Type the text to be decoded, press enter
-* Repeat for all coded text
-* Press Control-C to exit program
+1. Type the 26-character phrase used to decode the cyphered text
+1. Type the text to be decoded, press enter
+1. Repeat for all coded text
+1. Press Control-C to exit program
 
 ***
 
